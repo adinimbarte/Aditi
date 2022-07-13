@@ -27,13 +27,14 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## Github Stats:
 
-<!-- ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinimbarte&show_icons=true&theme=great-gatsby&count_private=true) &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinimbarte&theme=vision-friendly-dark&layout=compact)] -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adinimbarte&show_icons=true&theme=great-gatsby&count_private=true&line_height=20" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinimbarte&theme=vision-friendly-dark&layout=compact&card_width=250" >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinimbarte&hide=javascript,css,scss,html&theme=vision-friendly-dark&layout=compact&card_width=250">
 
-<br />
+<img align="auto" src="https://github-readme-stats.vercel.app/api?username=adinimbarte&show_icons=true&theme=great-gatsby&count_private=true&line_height=20" ><br /><br/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinimbarte&theme=vision-friendly-dark&layout=compact&card_width=250" > -->
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinimbarte&hide=javascript,css,scss,html&theme=tokyonight) -->
 
-### Thank you for visiting my profile!
 
-Visitor count: &nbsp; &nbsp; ![Visitor Count](https://profile-counter.glitch.me/adinimbarte/count.svg)
+
+
+## Visitor count: ![Visitor Count](https://profile-counter.glitch.me/adinimbarte/count.svg)
+## Thank you for visiting my profile!
